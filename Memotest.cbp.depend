@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1498796270 source:c:\users\juani\desktop\tp laboratorio final\main.cpp
+	<iostream>
+	<cstdlib>
+	"CSYSTEM/csystem.h"
+	"presentacion.h"
+	"Menu.h"
+	"Dificultad.h"
+	"Funciones.h"
+	"ayuda.h"
+
+1399506914 c:\users\juani\desktop\tp laboratorio final\csystem\csystem.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<unistd.h>
+
+1497839533 c:\users\juani\desktop\tp laboratorio final\presentacion.h
+
+1498253996 c:\users\juani\desktop\tp laboratorio final\menu.h
+
+1498254543 c:\users\juani\desktop\tp laboratorio final\dificultad.h
+	"Funciones.h"
+
+1498798823 c:\users\juani\desktop\tp laboratorio final\funciones.h
+
+1498793849 c:\users\juani\desktop\tp laboratorio final\ayuda.h
+
